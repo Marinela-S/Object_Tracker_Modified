@@ -1,0 +1,2 @@
+#excludes the weights because of large files
+YOLO_DET_Alg/
