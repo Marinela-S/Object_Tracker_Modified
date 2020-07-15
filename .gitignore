@@ -1,2 +1,5 @@
 #excludes the weights because of large files
 YOLO_DET_Alg/
+YOLO/weights/
+#video file too large
+video_result_YOLO/20200518_074310.mp4
