@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tensorflow_Object_Tracking_Video
 
 (Version 0.3, Last Update 10-03-2017)
@@ -173,3 +174,6 @@ According to the LICENSE file of the original code,
   - [K.  Kang  et  al.  “T-CNN:  Tubelets  with  Convolutional  Neural  Networks  forObject Detection from Videos”.](https://arxiv.org/abs/1604.02532)
   - [ W. Han et al. “Seq-NMS for Video Object Detection”.](https://arxiv.org/abs/1602.08465)
   -[J. Redmon et al. “You Only Look Once: Unified, Real-Time Object Detection”](https://arxiv.org/abs/1506.02640)
+=======
+# Object_Tracker_Modified
+>>>>>>> 21a2fd019c896b439eb6cde25a03e3ca6d12e9da
